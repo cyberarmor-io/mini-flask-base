@@ -30,7 +30,7 @@ If you want to customize it, use `MF_GUNICORN_INVOKE` environment variable which
 
 ## Example
 ```
-docker run -d -p 8080:8080 minimal-flask-ubi8:latest
+docker run -d -p 8080:8080 minimal-flask:ubi8
 ```
 
 
